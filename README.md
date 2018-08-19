@@ -63,6 +63,9 @@ P2P one ofcourse
 
 ### Podcast player
 
+### Pocket app
+Reas it later kinda app. Requires multiwriter or single superdelegated node.
+
 ### Recipes app
 
 ### Tic-tac-toe
