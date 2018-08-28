@@ -73,6 +73,10 @@ P2P one ofcourse
 
 ### Typing test
 
+### DatWakaTime
+
+Analog of wakatime - but simply adding log to your local folder instead of waka server, unfortunately without multiwriter would be unusable for several machines, or on the contrary you can count the time you spend on several projects on different machines or aggregate them.
+
 ## List of opened APIs for insiration and data and stuff
 
 ### [Public APIs](https://github.com/toddmotto/public-apis)
