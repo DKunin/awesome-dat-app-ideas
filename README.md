@@ -9,7 +9,7 @@ Most of the ideas are not well though out, so it's basically pitches to fool aro
 ## Ideas
 
 ### Book shelf
-Goodreads, but decentralized
+Goodreads, but decentralized, or simple inhouse office library system, but still decentralized
 
 ### Fitness app
 Fitness app to store your data and also check out how your friends are doing
